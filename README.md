@@ -1,2 +1,2 @@
-# A-website-for-a-tourist-company-
+# A-website-for-a-tourism-company-
 Tourist company
